@@ -13,16 +13,11 @@ widgets:
 
 # social config
 social:
-  zhihu:
-  twitter: /
-  facebook: /
-  linkedin:
-  instagram: /
-  github: haojen
+  github: jiyj1998
 
 user:
-  name: Haojen
-  avatar: /images/avatar.jpg
+  name: 秋月里
+  avatar: /avatar.jpg
   location: In the dust
   description: May the Force be with you
   footnotes: # footnotes
