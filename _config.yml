@@ -1,7 +1,7 @@
 # main menu navigation
 menu:
   Home: /
-  About: /about
+#  About: /about
   Archive: /archives
 
 widgets:

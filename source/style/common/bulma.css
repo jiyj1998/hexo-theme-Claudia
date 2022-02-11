@@ -1926,7 +1926,7 @@ fieldset[disabled] .button {
 }
 
 .content h1 {
-  font-size: 1.2em;
+  font-size: 1.55em;
   margin-bottom: 0.5em;
 }
 
@@ -1935,12 +1935,12 @@ fieldset[disabled] .button {
 }
 
 .content h2 {
-  font-size: 1.15em;
+  font-size: 1.5em;
   margin-bottom: 0.5714em;
 }
 
 .content h2:not(:first-child) {
-  margin-top: 1.1428em;
+  margin-top: 1.428em;
 }
 
 .content h3 {
@@ -11702,4 +11702,8 @@ pre-code, html .gist .gist-file .gist-syntax .highlight pre, .highlight table td
   font-size: 1rem;
   font-weight: 600;
   line-height: 1.125;
+}
+
+.content p {
+  line-height: 28px;
 }
